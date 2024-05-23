@@ -1,4 +1,41 @@
 ![enxus_150](https://github.com/netkasystem/EnxusRelease/assets/23395399/eb240e72-458e-4abd-8ec6-921760b35da7) 
+# INTERNAL RELEASE NOTE FOR NETKA ENXUS VERSION 1.1.0
+---
+###### *Release date: 23-May-2024*
+---
+### 1.[New feature] Upload data to TGO Platform:
+From Summary of Organization’s Greenhouse Gas Emission menu, you can see summarize of carbon emission, total emission, emission by scope1, scope2 and scope3 and the historical data in a year, this data is staying in our local database and waiting for external verifier to confirm the data source. An alternative to verification process is to upload data to TGO Platform in order to select an online verifier to confirm the data. Currently we support data upload to TGO platform for Scope 1 & 2, Scope 3.
+
+### 2.[New feature] Manage Department and Hierarchy:
+This feature allows users to customize organization level and its parent-child relationship, you can setup as many hierarchy level as you want and independent with other department for example HR has 3 hierarchy level, R&D has 2 level, PS has 4 level.
+
+### 3.[New feature] GHG Inventory for each department:
+The purpose of this feature is to enable users to participate in the organization’s goal to reduce carbon emission that affect global warming. Each production line or small office can have their own GHG inventory and be able to set reduction goal in the next release. Everyone in the section can compete to win the highest carbon reduction.
+
+### 4.[New feature] Organization’s Greenhouse Gas Diagram:
+The diagram display hierarchical view of the organization and production line as well as their carbon emission in CO2eq. User can select date range that you want to summarize the data.
+
+
+### Bug Fixes:
+- [x]	Fix license issue.
+- [x]	Fix excel export chart issue.
+- [x]	Fix export organization image issue.
+
+### Benefit:
+
+- [x]	Organizations can position themselves as environmentally responsible and create a positive image for their company.
+- [x]	They can submit audit reports for certification from the Thailand Greenhouse Gas Management Organization (TGO) and obtain the CFO certification symbol.
+- [x]	The platform supports the inclusion of additional data in the One Report format (Form 56-1) for comprehensive reporting.
+- [x]	It attracts investors who are increasingly interested in investing in environmentally responsible companies.
+- [x]	It enables organizations to register for ISO 14064-1 standards.
+- [x]	Reduces the risk of future carbon emission regulations and penalties.
+- [x]	Reduces the risk in trade with the European Union, which is implementing carbon taxes such as the Carbon Border Adjustment Mechanism (CBAM)..
+- [x]	Attracts environmentally conscious employees to work for the company.
+- [x]	Employees take pride in being part of an organization that is environmentally responsible.
+
+
+---
+---
 # INTERNAL RELEASE NOTE FOR NETKA ENXUS VERSION 1.0.0
 ---
 ###### *Release date: 07-March-2024*
